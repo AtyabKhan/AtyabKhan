@@ -172,19 +172,15 @@ AI/ML Engineer working on **vision-language models**, **document AI**, and **app
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtyabKhan&theme=algolia"/>
 
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtyabKhan&theme=algolia"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtyabKhan&theme=algolia&utcOffset=5"/>
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtyabKhan&theme=algolia"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtyabKhan&theme=algolia"/>
-
 </div>
+
+<!--
+  Removed deliberately: the stats, productive-time, repos-per-language and
+  most-commit-language cards. They are built from the public repos API, which
+  cannot see private repositories even with "include private contributions"
+  enabled. They reported 27 commits (actual: 667 in 12 months) and listed
+  JavaScript/PHP as top languages. Re-add them if the Python work is published.
+-->
 
 <br>
 
