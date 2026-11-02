@@ -1,16 +1,16 @@
 <!-- ===================================================== -->
-<!--              AI/ML ENGINEER GITHUB PROFILE            -->
+<!--          HEAD OF DATA SCIENCE GITHUB PROFILE          -->
 <!--                  Created for Atyab Khan               -->
 <!--     Palette: 0F172A · 1D4ED8 · 3B82F6 · 06B6D4 · 10B981 -->
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Atyab%20Khan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Document%20AI%20%7C%20Applied%20LLMs&descAlignY=58&descColor=FFFFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Atyab%20Khan&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Head%20of%20Data%20Science%20%40%20SALT%20%7C%20Document%20AI%20%7C%20Applied%20LLMs&descAlignY=58&descColor=FFFFFF"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=780&lines=Building+vision-language+document+extraction+pipelines;Deploying+LLMs+on+Huawei+Ascend+NPU+clusters;RAG%2C+Fine-Tuning+%26+Model+Evaluation;6%2B+years+turning+data+into+shipped+products" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=780&lines=Head+of+Data+Science+%40+SALT;Building+vision-language+document+extraction+pipelines;Deploying+LLMs+on+Huawei+Ascend+NPU+clusters;RAG%2C+Fine-Tuning+%26+Model+Evaluation;6%2B+years+turning+data+into+shipped+products" alt="Typing SVG"/>
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/atyab-khan/">
@@ -31,7 +31,7 @@
 
 ### 💡 About Me
 
-AI/ML Engineer working on **vision-language models**, **document AI**, and **applied LLM systems**, backed by 6+ years in software development and data analytics. I build systems that survive contact with production — on-premise, air-gapped, and at scale.
+Head of Data Science at **SALT**, leading work on **vision-language models**, **document AI**, and **applied LLM systems**, backed by 6+ years in software development and data analytics. I build systems that survive contact with production — on-premise, air-gapped, and at scale.
 
 - 🤖 Building VLM pipelines that turn engineering drawings into structured data
 - ⚡ Deploying and serving LLMs on **Ascend NPU** and GPU infrastructure with **vLLM**
@@ -85,18 +85,18 @@ AI/ML Engineer working on **vision-language models**, **document AI**, and **app
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 <div align="center">
 
-| 🚀 Technology | 📈 Progress | 🎯 Focus |
-|:---|:---:|:---|
-| 🖼️ Vision-Language Models | █████████░ 90% | Tiling, grounding, structured extraction |
-| 🔧 LLM Fine-Tuning | ████████░░ 80% | LoRA, instruction tuning, evaluation |
-| ⚡ NPU / Accelerator Serving | ███████░░░ 70% | CANN, torch_npu, vLLM-Ascend |
-| 🤝 AI Agents & Tooling | ███████░░░ 70% | RAG, tool use, orchestration |
-| 📊 Model Evaluation | ████████░░ 80% | Ground truth harnesses, KPI scoring |
-| ☁️ MLOps & Deployment | ███████░░░ 70% | Docker, CI/CD, air-gapped rollout |
+| 🚀 Area | 🎯 Focus |
+|:---|:---|
+| 🖼️ Vision-Language Models | Tiling, grounding, structured extraction |
+| 🔧 LLM Fine-Tuning | LoRA, instruction tuning, evaluation |
+| ⚡ NPU / Accelerator Serving | CANN, torch_npu, vLLM-Ascend |
+| 🤝 AI Agents & Tooling | RAG, tool use, orchestration |
+| 📊 Model Evaluation | Ground truth harnesses, KPI scoring |
+| ☁️ MLOps & Deployment | Docker, CI/CD, air-gapped rollout |
 
 </div>
 
@@ -184,13 +184,11 @@ AI/ML Engineer working on **vision-language models**, **document AI**, and **app
 
 <br>
 
-<div align="center">
-
-<img width="80%" src="https://streak-stats.demolab.com?user=AtyabKhan&theme=algolia&hide_border=true"/>
-
-</div>
-
-<br>
+<!--
+  Streak card removed: the public streak-stats.demolab.com instance returned
+  HTTP 503 on every request (Nov 2026). Re-add it pointing at a self-hosted
+  instance (DenverCoder1/github-readme-streak-stats on Vercel, env TOKEN).
+-->
 
 <div align="center">
 
@@ -253,7 +251,7 @@ src="https://raw.githubusercontent.com/AtyabKhan/AtyabKhan/output/github-contrib
 
 ## 🚀 Thanks for Visiting My Profile
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Document+AI+%7C+Applied+LLMs;Building+Intelligent+Systems+That+Ship.;From+Research+Notebook+to+Production+Cluster.;Open+to+Collaboration+and+Ambitious+Projects."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Head+of+Data+Science+%7C+Document+AI+%7C+Applied+LLMs;Building+Intelligent+Systems+That+Ship.;From+Research+Notebook+to+Production+Cluster.;Open+to+Collaboration+and+Ambitious+Projects."/>
 
 <br>
 
