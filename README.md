@@ -31,12 +31,12 @@
 
 ### 💡 About Me
 
-Head of Data Science at **SALT**, leading work on **vision-language models**, **document AI**, and **applied LLM systems**, backed by 6+ years in software development and data analytics. I build systems that survive contact with production — on-premise, air-gapped, and at scale.
+Head of Data Science at **SALT**, leading AI and data products for the **upstream oil & gas** sector, backed by 6+ years in software development and data analytics. I build systems that survive contact with production — on-premise, air-gapped, and at scale.
 
-- 🤖 Building VLM pipelines that turn engineering drawings into structured data
-- ⚡ Deploying and serving LLMs on **Ascend NPU** and GPU infrastructure with **vLLM**
-- 🔍 Working with **RAG**, fine-tuning, embeddings and model evaluation harnesses
-- 🛢️ Data integrity and analytics for **upstream oil & gas** operations
+- 🗄️ Building on-prem pipelines that organise, de-duplicate and index entire **E&P data estates** — documents, well logs and seismic
+- 💬 Shipping natural-language Q&A over live **production data**, used daily by operations teams
+- 🔍 **RAG** with verifiable citations, **knowledge graphs**, local LLMs and model evaluation harnesses
+- ⚡ Serving LLMs and **vision-language models** on **Ascend NPU** and GPU infrastructure with **vLLM**
 - 📊 6+ years across software engineering, QA and regulatory data validation
 - 🎓 BS in Artificial Intelligence
 
@@ -102,7 +102,50 @@ Head of Data Science at **SALT**, leading work on **vision-language models**, **
 
 <div align="center">
 
-> 💡 **Currently building:** Document AI pipelines • On-prem LLM serving • RAG systems • Production ML infrastructure
+> 💡 **Currently building at SALT:** E&P data sanitisation • Knowledge graphs • Cited RAG • Production-data AI assistants
+
+</div>
+
+---
+
+### 🏢 What I'm Building at SALT
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+#### 🗄️ SALT Data Studio — E&P Data Sanitisation Platform
+
+**On-prem pipeline that turns a sprawling oil & gas data estate into a clean, searchable, connected knowledge base.**
+
+- 🧹 Organises, quality-checks and **de-duplicates at four levels** across documents, well logs (DLIS/LIS) and SEG-Y seismic
+- 🕸️ Builds a **knowledge graph** linking every file to wells, fields and surveys
+- 💬 **RAG question answering with verifiable citations**, plus Open Knowledge Format (OKF) export
+- 🔒 Fully on-prem with **no external APIs** — local LLM, embeddings and OCR; source storage mounted read-only
+
+`Python` `PostgreSQL` `pgvector` `Local LLMs` `Knowledge Graphs` `RAG` `Docker`
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+#### 🛢️ Production Intelligence Platform — Natural-Language Q&A over Field Data
+
+**AI assistant and dashboards that let operations teams interrogate live production data in plain language.**
+
+- 💬 Answers operational questions such as *which wells are at risk of liquid loading* directly from production data
+- ⚙️ Physics-based calculations run in a dedicated **Python sidecar**, alongside data-integrity and hydrocarbon-accounting checks
+- 📱 Web dashboards and a companion **mobile app** on a containerised, CI/CD-deployed stack
+
+`Python` `LLMs` `Next.js` `Node.js` `PostgreSQL` `Flutter` `Docker`
+
+</td>
+</tr>
+</table>
 
 </div>
 
